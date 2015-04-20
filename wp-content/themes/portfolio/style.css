@@ -367,6 +367,10 @@ h1 {
 	width: 60%;
 	margin: 6em auto;
 }
+.title p {
+	font-size: 250%;
+	font-weight: 300;
+}
 .work-img-container {
 	float: left;
 	width: 60%;

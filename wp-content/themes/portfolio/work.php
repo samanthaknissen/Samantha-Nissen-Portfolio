@@ -10,6 +10,12 @@
 
   <div class="content-area">
     <?php if( get_field('work-image') ): ?>
+      <div class="title">
+        <h1>
+      <?php the_field('title'); ?>
+    </h1>
+      </div>
+
       <div class="work-img-container">
 <img src="http://localhost:8888/samantha-nissen/wp-content/uploads/2015/04/noel-nissen.jpg" />
       </div>

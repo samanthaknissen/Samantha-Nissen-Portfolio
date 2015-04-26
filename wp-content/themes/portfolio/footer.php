@@ -11,14 +11,6 @@
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
-		<nav class="footer-nav">
-			<a href="#">Home</a>
-			<a href="#">Work</a>
-			<a href="#">Contact</a>
-</nav>
-<div class="site-info">
-			<p>Samantha Nissen</p>
-		</div>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 

@@ -7,7 +7,7 @@
 <?php
  get_header();
 ?>
-
+<main>
 <section id="intro">
   <h1>My motto?</h1>
   <h2>Always connect.</h2>
@@ -17,37 +17,38 @@
   </p>
 </section>
 <section id="home-page-services">
-  <h2 class="home-page-heading">
+  <div class="container">
+  <h3>
     Services
-  </h2>
+  </h3>
+  </div>
   <div class="col-3">
-    <img src="images/envelope.png">
-    <h3>
+    <img src="http://localhost:8888/samantha-nissen/wp-content/uploads/2015/05/envelope.png">
+    <h4>
       Development and Design
-    </h3>
+    </h4>
     <p class="description">
       I specialize in WordPress, with experience in HTML5, CSS3, and responsive design.
     </p>
   </div>
   <div class="col-3">
-    <img src="images/discussion.png">
-    <h3>
+    <img src="http://localhost:8888/samantha-nissen/wp-content/uploads/2015/05/discussion.png">
+    <h4>
       Communications
-    </h3>
+    </h4>
     <p class="description">
       I enjoy the challenge of creating a united message through social media management, blogging, public relations, and more.
     </p>
   </div>
   <div class="col-3">
-    <img src="/images/earth.png">
-    <h3>
+    <img src="http://localhost:8888/samantha-nissen/wp-content/uploads/2015/05/earth.png">
+    <h4>
       Cross-Cultural Competence
-    </h3>
+    </h4>
     <p class="description">
       Effectively engage with your audience, ensuring that your message transcends cultural differences.
     </p>
   </div>
-  <button type="button">View Work</button>
 </section>
 </main>
 

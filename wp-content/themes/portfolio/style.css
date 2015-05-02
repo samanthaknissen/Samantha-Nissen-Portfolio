@@ -405,3 +405,42 @@ h1 {
 	background-size: 250px;
 
 }
+/*--------------------------------------------------------------
+# Homepage
+--------------------------------------------------------------*/
+main {
+	width: 60%;
+	margin: 6em auto;
+}
+
+main h3 {
+	display: inline-block;
+	background-color: #f7484e;
+	padding: 0.25em;
+	text-transform: lowercase;
+	font-size: 1em;
+	color: #000000;
+}
+.col-3 {
+	width: 30%;
+	float: left;
+	margin: 3em 1.75em 3em 0;
+	text-align: center;
+}
+#container {
+	clear: both;
+}
+
+#intro {
+	margin: 5em 0;
+}
+#intro h1 {
+	font-weight: 300;
+	font-size: 5em;
+	margin: 0em;
+}
+#intro h2 {
+	margin: 0 0 2rem 0;
+	font-weight: 700;
+	font-size: 5em;
+}
